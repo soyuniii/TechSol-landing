@@ -1,3 +1,5 @@
+TechSol의 브랜드와 서비스를 알리기 위한 반응형 랜딩페이지
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
